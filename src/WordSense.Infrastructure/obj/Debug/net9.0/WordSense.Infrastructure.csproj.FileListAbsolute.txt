@@ -1,0 +1,12 @@
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Infrastructure\bin\Debug\net9.0\WordSense.Infrastructure.deps.json
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Infrastructure\bin\Debug\net9.0\WordSense.Infrastructure.dll
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Infrastructure\bin\Debug\net9.0\WordSense.Infrastructure.pdb
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Infrastructure\obj\Debug\net9.0\WordSense.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Infrastructure\obj\Debug\net9.0\WordSense.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Infrastructure\obj\Debug\net9.0\WordSense.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Infrastructure\obj\Debug\net9.0\WordSense.Infrastructure.AssemblyInfo.cs
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Infrastructure\obj\Debug\net9.0\WordSense.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Infrastructure\obj\Debug\net9.0\WordSense.Infrastructure.dll
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Infrastructure\obj\Debug\net9.0\refint\WordSense.Infrastructure.dll
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Infrastructure\obj\Debug\net9.0\WordSense.Infrastructure.pdb
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Infrastructure\obj\Debug\net9.0\ref\WordSense.Infrastructure.dll

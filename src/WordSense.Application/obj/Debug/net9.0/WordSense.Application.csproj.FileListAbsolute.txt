@@ -1,0 +1,11 @@
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Application\bin\Debug\net9.0\WordSense.Application.deps.json
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Application\bin\Debug\net9.0\WordSense.Application.dll
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Application\bin\Debug\net9.0\WordSense.Application.pdb
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Application\obj\Debug\net9.0\WordSense.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Application\obj\Debug\net9.0\WordSense.Application.AssemblyInfoInputs.cache
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Application\obj\Debug\net9.0\WordSense.Application.AssemblyInfo.cs
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Application\obj\Debug\net9.0\WordSense.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Application\obj\Debug\net9.0\WordSense.Application.dll
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Application\obj\Debug\net9.0\refint\WordSense.Application.dll
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Application\obj\Debug\net9.0\WordSense.Application.pdb
+C:\Users\Jtbra\Documents\code\WordSense\src\WordSense.Application\obj\Debug\net9.0\ref\WordSense.Application.dll

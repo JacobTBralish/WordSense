@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5HO9A9eXaNg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jtbra\\Documents\\code\\WordSense\\src\\WordSense.Infrastructure\\WordSense.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jtbra\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Jtbra\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\Jtbra\\.nuget\\packages\\openai\\2.3.0\\openai.2.3.0.nupkg.sha512",
+    "C:\\Users\\Jtbra\\.nuget\\packages\\system.clientmodel\\1.5.1\\system.clientmodel.1.5.1.nupkg.sha512",
+    "C:\\Users\\Jtbra\\.nuget\\packages\\system.memory.data\\8.0.1\\system.memory.data.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
